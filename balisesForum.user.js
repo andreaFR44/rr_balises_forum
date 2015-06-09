@@ -4,8 +4,12 @@
 // @author      Orandin
 // @include     http://forum.lesroyaumes.com/posting.php
 // @include     http://forum.lesroyaumes.com/posting.php*
+// @include     http://forum.lesroyaumes.com/privmsg.php
+// @include     http://forum.lesroyaumes.com/privmsg.php*
 // @include     http://forum2.lesroyaumes.com/posting.php
 // @include     http://forum2.lesroyaumes.com/posting.php*
+// @include     http://forum2.lesroyaumes.com/privmsg.php
+// @include     http://forum2.lesroyaumes.com/privmsg.php*
 // @version     1
 // @grant       none
 // ==/UserScript==
